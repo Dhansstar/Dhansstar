@@ -17,7 +17,7 @@ I bridge the gap between complex data insights and seamless user experiences. Sp
 - **[DemandSense AI](https://github.com/Dhansstar/DemandSense-AI-Intelligent-Market-Demand-Forecasting)**: Hybrid RNN + XGBoost Ensemble for E-commerce market demand forecasting.
 - **[Berlian Travel](https://github.com/Dhansstar/Berlian-Travel-Market-Intelligence-IT-Infrastructure-Strategy)**: Strategic Market Intelligence framework using Elastic Stack (ELK).
 - **[SurveyApp Ecosystem](https://github.com/Dhansstar/restClient_SurveyApp)**: End-to-end Multi-role Mobile & Backend system.
-- **[Smart Stock Classifier]([https://github.com/Dhansstar/PredictionStock](https://github.com/Dhansstar/PredictionStock))**: Machine Learning for financial trend prediction (Uptrend/Downtrend).
+- **[Smart Stock Classifier](https://github.com/Dhansstar/Smart-Stock-Classifier-Machine-Learning-Based-IHSG-Trend-Navigation)**: Machine Learning for financial trend prediction (Uptrend/Downtrend).
 
 ---
 
