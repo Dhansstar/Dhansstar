@@ -14,10 +14,10 @@ I bridge the gap between complex data insights and seamless user experiences. Sp
 ---
 
 ### 🌟 Top Tier Projects
-- **[DemandSense AI](https://github.com/Dhansstar/DemandSense-AI-Intelligent-Marke...)**: Hybrid RNN + XGBoost Ensemble for E-commerce market demand forecasting.
-- **[Berlian Travel](https://github.com/Dhansstar/Berlian-Travel-Market-Intel...)**: Strategic Market Intelligence framework using Elastic Stack (ELK).
+- **[DemandSense AI](https://github.com/Dhansstar/DemandSense-AI-Intelligent-Market-Demand-Forecasting)**: Hybrid RNN + XGBoost Ensemble for E-commerce market demand forecasting.
+- **[Berlian Travel](https://github.com/Dhansstar/Berlian-Travel-Market-Intelligence-IT-Infrastructure-Strategy)**: Strategic Market Intelligence framework using Elastic Stack (ELK).
 - **[SurveyApp Ecosystem](https://github.com/Dhansstar/restClient_SurveyApp)**: End-to-end Multi-role Mobile & Backend system.
-- **[Smart Stock Classifier](https://github.com/Dhansstar/PredictionStock)**: Machine Learning for financial trend prediction (Uptrend/Downtrend).
+- **[Smart Stock Classifier]([https://github.com/Dhansstar/PredictionStock](https://github.com/Dhansstar/PredictionStock))**: Machine Learning for financial trend prediction (Uptrend/Downtrend).
 
 ---
 
@@ -27,5 +27,5 @@ I bridge the gap between complex data insights and seamless user experiences. Sp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhansstar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
-- 📬 Reach me via: [LinkedIn](link-linkedin-lo)
+- 📬 Reach me via: [LinkedIn](https://www.linkedin.com/in/risyadhana-syaifuddin-a71287275/)
 - 🧪 Models & Demos: [HuggingFace](https://huggingface.co/Dhansstar)
